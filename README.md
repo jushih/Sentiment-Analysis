@@ -89,7 +89,7 @@ In model tuning, I found `count_vectorizer` to predict better than using `tfidf_
 | **Multinomial NB (n-grams tuned)**  | **1.57**  |
 | Linear SVC                        | 1.60    |
 
-The **Multinomial NB** model using n-grams is the best performing model based on RMSE. However, when looking at the predictions it generates:
+The **Multinomial NB model using n-grams** is the best performing model based on RMSE. However, when looking at the predictions it generates:
 
 ##### Multinomial NB (n-grams) Confusion Matrix
 ![matrix](/images/multinomialNB_ngrams.png)
