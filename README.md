@@ -10,7 +10,7 @@ The dataset used was compiled by Matt Borthwick of the Portland Data Science Gro
 
 ### Data Exploration
 
-<img src="https://github.com/jushih/Sentiment-Analysis/blob/master/images/histogram.png" width="600" height="400" />
+<img src="https://github.com/jushih/Sentiment-Analysis/blob/master/images/histogram.png" />
 
 Data exploration was conducted on a sample of 847 reviews while the full set contains around 800,000 reviews. User ratings are concentrated in the 6-9 range, with fewer negative and perfect ratings. Most users assign ratings of integer values, but some use decimal values such as 7.5 or 7.22. For the purpose of predictive analysis, ratings will be rounded to the nearest integer.
 
